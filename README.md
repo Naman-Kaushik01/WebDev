@@ -1,2 +1,2 @@
-# _MERN
- I will share my MERN stack journey i this repo.
+WebDev
+ I will share my web Development journey i this repo.
